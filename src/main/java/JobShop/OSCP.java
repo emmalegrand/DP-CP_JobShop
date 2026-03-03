@@ -35,7 +35,7 @@ import static org.maxicp.search.Searches.*;
  * The JobShop Problem.
  * <a href="https://en.wikipedia.org/wiki/Job_shop_scheduling">Wikipedia.</a>
  *
- * @author Pierre Schaus
+ * 
  */
 public class OSCP {
 
